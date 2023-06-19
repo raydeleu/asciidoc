@@ -18,8 +18,27 @@ endif::[]
 
 == What is AsciiDoc? 
 
+https://en.wikipedia.org/wiki/AsciiDoc
+
 
 == Why another manual? 
+
+
+
+== Quick start
+
+
+https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia
+
+
+
+== References
+
+https://asciidoc.org/
+
+https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
+
+
 
 
 
